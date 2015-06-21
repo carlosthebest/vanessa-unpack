@@ -1,0 +1,3 @@
+[submodule "vendors/tool1cd"]
+	path = vendors/tool1cd
+	url = https://bitbucket.org/awa15/tool_1cd.git

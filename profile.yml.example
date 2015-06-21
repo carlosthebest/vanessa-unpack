@@ -1,0 +1,8 @@
+storage_dir: .\path\to\storage
+git_local_repo: .\git\repo\whereis\git\clone
+v8_executable: .\v8\install\dir
+git_executable: .\git\install\dir
+git_remote_repo: .\git\origin\bare\repo
+git_email_domain: .\domain\suffix\to\add\for\sign\off
+unpack_dir: .\git\repo\whereis\git\clone\src
+branch: master
