@@ -1,3 +1,6 @@
 [submodule "vendors/tool1cd"]
 	path = vendors/tool1cd
 	url = https://bitbucket.org/awa15/tool_1cd.git
+[submodule "vendors/undiff1c"]
+	path = vendors/undiff1c
+	url = https://github.com/pumbaEO/undiff1c.git
