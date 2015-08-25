@@ -1838,7 +1838,7 @@
 		+ " /Visible"
 		+ " /DumpConfigToFiles""" + ПутьКаталогаВыгрузкиДанных  + """"
 		+ " /Lru"
-		//для 1С 8.2 строка		+ " /DumpConfigFiles""" + ПутьКаталогаВыгрузкиДанных + """ -Module -Template -AllWritable -Right -Picture"
+		//для 1С 8.2 строка		+ " /DumpConfigFiles""" + ПутьКаталогаВыгрузкиДанных + """ -Module -Template -AllWritable -Right"
 		+ " /Out"""+АппЛог+"""";
 		
 	СписокФайлов = НайтиФайлы(ПутьКаталогаВыгрузкиДанных, "*.*");
